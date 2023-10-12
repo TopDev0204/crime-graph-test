@@ -1,0 +1,3 @@
+export const GRAPH_REQUEST = "GRAPH_REQUEST";
+export const GRAPH_SUCCESS = "GRAPH_SUCCESS";
+export const GRAPH_ERROR = "GRAPH_ERROR";
